@@ -1,0 +1,6 @@
+greenlet==3.5.6
+playwright==1.63.0
+pyee==13.0.1
+pywin32==312
+typing_extensions==4.16.0
+python-dotenv==1.1.1
